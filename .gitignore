@@ -5,8 +5,9 @@
 /.pnp
 .pnp.js
 
-# firestore config
-/src/firestoreConfig.js
+# firestore environment variables
+.env
+
 # testing
 /coverage
 
